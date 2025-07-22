@@ -38,12 +38,6 @@ With a strong foundation in **HTML, CSS, JavaScript, and TypeScript**, I special
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🌐 Connect with Me
-- [LinkedIn Profile](https://www.linkedin.com/in/saim-raza-610511327/)
-
 ---
 
 ✨ **Let’s build something amazing together!**

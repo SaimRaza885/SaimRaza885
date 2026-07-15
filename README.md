@@ -84,32 +84,26 @@ and building software that creates real-world impact.
 
 ### 💻 Technologies & Tools I Work With
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,vscode,postman,npm,supabase,curosr,replit,&theme=dark&perline=10" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,vscode,postman,npm,supabase,cursor,replit&theme=dark&perline=10" />
+
 
 </div>
 
 ---
 
-<div align="center ">
+<div align="center">
 
 ## 🛠️ Technology Overview
 
 | 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 🚀 Deployment | 🛠️ Tools |
 |-------------|------------|-------------|---------------|-----------|
-| React.js | Node.js | MongoDB | Vercel | Git |
-| Next.js | Express.js | Mongoose | Render | GitHub |
-| Redux Toolkit | REST APIs | MongoDB Atlas | Netlify | VS Code |
+| React.js | Node.js | MongoDB Atlas | Vercel | Git |
+| Next.js | Express.js | Supabase | Render | GitHub |
+| TypeScript | REST APIs | Data Modeling  | Netlify | Cloudinary |
 | Tailwind CSS | JWT Authentication | CRUD Operations | GitHub Pages | Postman |
-| HTML5 | Middleware | Database Design | MongoDB Atlas | npm | 
-| CSS3 | MVC Architecture | Data Modeling | — | - | Cloud Computing |
-| JavaScript (ES6+) | API Integration | Aggregation Basics | — | Chrome DevTools |
-
-
-
-</div>
-
-
-<div align="center">
+| HTML5 | Middleware | Database Design | MongoDB Atlas | Cursor | 
+| JavaScript (ES6+) | API Integration | Aggregation Basics | Railway | Lovable |
 
 
 </div>
@@ -117,11 +111,6 @@ and building software that creates real-world impact.
 ---
 
 
-<div align="center">
-
-### 🚀 "Building modern web applications with clean architecture, scalable code, and exceptional user experiences."
-
-</div>
 
 
 # 💼 Experience & Learning Journey
@@ -152,17 +141,21 @@ As a passionate developer, I've been building modern web applications to strengt
 
 # 🎓 Education
 
-### 🎓 Bachelor's Degree *(Currently Pursuing)*
+### 🎓 College Student — Currently Pursuing My Degree
 
-I'm currently pursuing my degree while continuously improving my software development skills through practical projects, online learning, and self-study.
+I'm currently pursuing my college degree while actively strengthening my software development skills through hands-on projects, continuous learning, and self-study. Alongside my academics, I focus on building real-world, production-ready web applications using the MERN stack.
 
-### Areas of Focus
+## 🎯 Beyond the Classroom
 
-- Software Engineering
-- Web Development
-- Database Systems
-- Programming Fundamentals
-- Modern JavaScript Ecosystem
+In addition to my coursework, I actively:
+
+- 🚀 Build production-ready MERN applications
+- 🔐 Develop secure REST APIs with JWT Authentication
+- ⚛️ Create responsive React & Next.js applications
+- 🍃 Design and integrate MongoDB databases
+- 📖 Continuously learn modern tools, frameworks, and best practices
+
+> **"I believe the best way to learn is by building real-world projects that solve real problems."**
 
 ---
 
@@ -181,35 +174,7 @@ Skills Covered
 - Modern UI Development
 - Frontend Best Practices
 
----
 
-# 🌱 Learning Roadmap
-
-I'm constantly improving my skills and exploring new technologies.
-
-### Currently Learning
-
-```text
-✅ Advanced React Patterns
-
-✅ Backend Architecture
-
-✅ Docker
-
-✅ System Design
-
-✅ TypeScript
-
-✅ AI Fundamentals
-
-✅ Cloud Deployment
-
-⬜ Microservices
-
-⬜ Kubernetes
-
-⬜ AWS
-```
 
 ---
 
@@ -224,41 +189,6 @@ I'm looking for opportunities where I can:
 - 🌍 Work with distributed and remote teams
 - 🤖 Grow toward becoming an AI Engineer
 
----
-
-# 💡 Development Mindset
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-### 🧠 Learn
-
-Always curious about new technologies and best practices.
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 Build
-
-Turn ideas into functional, scalable applications.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🚀 Improve
-
-Continuously refine code quality, performance, and user experience.
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -284,6 +214,8 @@ Continuously refine code quality, performance, and user experience.
 
 <br>
 
+## 🚀 Featured Projects
+
 <table>
 <tr>
 
@@ -291,11 +223,9 @@ Continuously refine code quality, performance, and user experience.
 
 ## 🎥 YouTube Clone
 
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-
 ### 📖 Overview
 
-A production-ready YouTube-inspired MERN application featuring secure authentication, video streaming, and a modern responsive interface.
+A production-ready YouTube-inspired MERN application featuring secure JWT authentication, video streaming, REST APIs, and a responsive user experience.
 
 ### ✨ Highlights
 
@@ -303,180 +233,54 @@ A production-ready YouTube-inspired MERN application featuring secure authentica
 - 🎥 Video Streaming
 - 👤 User Accounts
 - 📱 Fully Responsive
-- ⚡ REST API
+- ⚡ REST APIs
 - 🍃 MongoDB Database
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-`JWT`
-`Cloudinary`
-`Tailwind CSS`
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `Tailwind CSS`
 
 ### 🔗 Links
 
-**🌐 Live Demo:** *(Add Link)*
+🌐 **Live Demo:** *Coming Soon*
 
-**📂 Repository:** *(Add GitHub Link)*
+📂 **Repository:** [View Repository](https://github.com/SaimRaza885/Full-Stack-Video-Application)
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🏨 Hikal Guest House
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-
-### 📖 Overview
-
-A modern hotel booking website designed with a clean UI and mobile-first experience.
-
-### ✨ Highlights
-
-- 📱 Responsive Layout
-- ⚡ Fast Performance
-- 🎨 Modern UI
-- 🏨 Booking Interface
-- 🌙 Clean Design
-
-### 🛠 Tech Stack
-
-`React`
-
-`Tailwind CSS`
-
-`JavaScript`
-
-### 🔗 Links
-
-**🌐 Live Demo:** *(Add Link)*
-
-**📂 Repository:** *(Add GitHub Link)*
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="100%" valign="top">
-
 ## 🌍 GB Tourism
 
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-
 ### 📖 Overview
 
-An SEO-friendly tourism platform built to showcase the beauty of Gilgit-Baltistan while providing an engaging user experience.
+A modern tourism platform built with Next.js to showcase the breathtaking destinations of Gilgit-Baltistan with a fast, SEO-friendly, and responsive experience.
 
 ### ✨ Highlights
 
 - 🔍 SEO Optimized
 - 📱 Responsive Design
-- ⚡ Fast Loading
-- 🗺 Destination Showcase
-- 🎨 Modern Interface
+- ⚡ Fast Performance
+- 🗺️ Destination Explorer
+- 🎨 Modern UI
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-`Next.js`
-
-`Tailwind CSS`
-
-`JavaScript`
+`Next.js` `JavaScript` `Tailwind CSS`
 
 ### 🔗 Links
 
-**🌐 Live Demo:** *(Add Link)*
+🌐 **Live Demo:** [Visit Website](https://gb-tourism-smoky.vercel.app/)
 
-**📂 Repository:** *(Add GitHub Link)*
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 Project Highlights
-
-<div align="center">
-
-| Category | Experience |
-|----------|------------|
-| 🌐 Full-Stack Applications | ✅ |
-| ⚛️ React Development | ✅ |
-| 🚀 Backend APIs | ✅ |
-| 🔐 Authentication Systems | ✅ |
-| 🍃 MongoDB Integration | ✅ |
-| 📱 Responsive UI | ✅ |
-| 🎨 Tailwind CSS | ✅ |
-| 🔄 CRUD Operations | ✅ |
-| ☁️ Deployment | ✅ |
-
-</div>
-
----
-
-# 💡 Development Principles
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-### 🧩 Clean Architecture
-
-I organize projects with maintainable folder structures and reusable components.
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚡ Performance
-
-I focus on responsive interfaces, optimized rendering, and efficient API communication.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔐 Security
-
-Authentication, authorization, input validation, and secure API design are core parts of my workflow.
+📂 **Repository:** [View Repository](https://github.com/SaimRaza885/GB_Tourism-)
 
 </td>
 
 </tr>
-
 </table>
-
 ---
 
-# 🚀 What's Next?
 
-I'm currently working toward building more advanced applications that include:
-
-- 🤖 AI-powered web applications
-- 💬 Real-time chat systems
-- 💳 Payment gateway integration
-- 📊 Admin dashboards
-- ☁️ Cloud-native deployments
-- 🐳 Dockerized applications
-- 📈 SaaS platforms
-- 🔄 CI/CD automation
-
----
 
 
 # 📊 GitHub Analytics
@@ -485,21 +289,6 @@ I'm currently working toward building more advanced applications that include:
 
 <br>
 
-<div align="center">
-
-## 📈 Profile Overview
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=SaimRaza885&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimRaza885&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -510,7 +299,6 @@ src="https://streak-stats.demolab.com?user=SaimRaza885&theme=tokyonight&hide_bor
 
 </div>
 
----
 
 <div align="center">
 
@@ -521,105 +309,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=SaimRaza885&
 
 </div>
 
----
 
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=SaimRaza885&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📌 GitHub Summary
-
-<div align="center">
-
-| 📊 Metric | Focus |
-|-----------|-------|
-| 💻 Primary Stack | MERN |
-| 🚀 Main Language | JavaScript |
-| ⚛️ Frontend | React.js & Next.js |
-| ⚙️ Backend | Node.js & Express |
-| 🍃 Database | MongoDB |
-| 🎯 Current Goal | Production-Ready Applications |
-| 🤖 Future Goal | AI Engineering |
-
-</div>
-
----
-
-# 📈 Development Activity
-
-<div align="center">
-
-```text
-Frontend Development        ████████████████████████ 95%
-
-Backend Development         █████████████████████░░ 85%
-
-Database Design             ███████████████████░░░░ 80%
-
-REST API Development        ████████████████████░░░ 88%
-
-Authentication Systems      ████████████████████░░░ 90%
-
-Problem Solving             ███████████████████░░░░ 85%
-
-Learning New Technologies   ███████████████████████ 100%
-
-AI Engineering              ████████████░░░░░░░░░░░ 50%
-```
-
-</div>
 
 > **Note:** These bars represent my current learning focus and development journey, not objective skill measurements.
-
----
-
-# 🚀 Development Philosophy
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-### 💡 Learn
-
-Continuously exploring modern technologies and software engineering best practices.
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ Build
-
-Creating production-ready applications with clean architecture and scalable solutions.
-
-</td>
-
-<td width="33%" align="center">
-
-### 📈 Improve
-
-Every project is an opportunity to grow, refine my skills, and write better code.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
 
 ---
 
@@ -649,80 +341,6 @@ Every project is an opportunity to grow, refine my skills, and write better code
 
 </div>
 
----
-
-# 💭 Developer Philosophy
-
-<div align="center">
-
-### **"Great software is more than just working code.**
-
-### **It's about solving problems, creating value, and continuously improving every single day."**
-
-</div>
-
----
-
-# 🚀 Open To
-
-<div align="center">
-
-| Opportunity | Status |
-|--------------|--------|
-| 💼 Full-Time Roles | ✅ Open |
-| 🌍 Remote Opportunities | ✅ Open |
-| 🤝 Freelance Projects | ✅ Available |
-| 🚀 Startup Collaboration | ✅ Interested |
-| 🌟 Open Source Contributions | ✅ Open |
-| 🤖 AI-Based Projects | ✅ Learning & Exploring |
-
-</div>
-
----
-
-# ☕ Fun Facts
-
-```text
-💻 Favorite Stack      → MERN
-
-🚀 Passion             → Building Full-Stack Applications
-
-🧠 Learning            → AI Engineering
-
-🎯 Goal                → Build products used by millions
-
-🌍 Dream               → Work with global engineering teams
-
-⚡ Motto               → Learn • Build • Improve • Repeat
-```
-
----
-
-# 📌 Profile Roadmap
-
-```text
-✔ Full-Stack MERN Developer
-
-⬇
-
-✔ Production-Ready Applications
-
-⬇
-
-✔ SaaS Products
-
-⬇
-
-✔ Open Source Contributor
-
-⬇
-
-✔ AI Engineer
-
-⬇
-
-🚀 Build Technology That Creates Impact
-```
 
 ---
 
@@ -736,11 +354,6 @@ I’m always open to learning, collaborating, and building impactful software.
 
 <br>
 
-### **Let's build something amazing together. 🚀**
-
-</div>
-
----
 
 <div align="center">
 
@@ -748,20 +361,9 @@ I’m always open to learning, collaborating, and building impactful software.
 
 </div>
 
-<div align="center">
-
-### 📊 *"Great developers aren't measured by numbers—they're measured by the value they create."*
-</div>
-<div align="center">
-
-### ⭐ More exciting projects are coming soon!
-
-*"Building one production-ready application at a time."*
+### **Let's build something amazing together. 🚀**
 
 </div>
 
-<div align="center">
 
-### 🚀 *"Great software isn't built overnight—it's built through continuous learning, persistence, and a passion for solving problems."*
 
-</div>

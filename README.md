@@ -6,23 +6,11 @@
 
 <br/>
 
-<a href="https://saim-raza.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:saimrazaytt@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saim-raza-6ab879384">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SaimRaza885">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
+<p align="center">
+  <a href="https://saim-raza.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=SaimRaza885&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -89,71 +77,6 @@ Become an AI Engineer while mastering Full-Stack Development
 and building software that creates real-world impact.
 ```
 
----
-
-## 🚀 What I Bring to the Table
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Full-Stack Development
-
-- Build complete MERN applications
-- Responsive & modern UI
-- REST API development
-- Authentication systems
-- Database integration
-- Clean project architecture
-
-</td>
-
-<td width="50%">
-
-### ⚡ Development Philosophy
-
-- Clean & readable code
-- Performance-first mindset
-- Mobile-first development
-- User-centered design
-- Scalable architecture
-- Continuous learning
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Core Expertise
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Frontend-React_&_Next.js-38BDF8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backend-Node_&_Express-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Database-MongoDB-13AA52?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/API-REST_API-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Auth-JWT-000000?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🌱 Currently Learning
-- 🤖 AI & Machine Learning 
-
-
----
-
-## 🎯 My Vision
-
-I'm passionate about building software that is not only functional but also scalable, secure, and enjoyable to use.
-
-Today, my focus is on mastering the **MERN Stack** by developing production-ready applications. As I continue to grow, I'm expanding into **Artificial Intelligence**, aiming to combine modern web technologies with AI to create smarter, more impactful digital experiences.
 
 # ⚡ Tech Stack
 
@@ -161,101 +84,33 @@ Today, my focus is on mastering the **MERN Stack** by developing production-read
 
 ### 💻 Technologies & Tools I Work With
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,vscode,postman,npm,docker,firebase&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,vscode,postman,npm,supabase,curosr,replit,&theme=dark&perline=10" />
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center ">
 
-| 🎨 Frontend | ⚙️ Backend | 🗄️ Database |
-|-------------|------------|-------------|
-| React.js | Node.js | MongoDB |
-| Next.js | Express.js | Mongoose |
-| Redux Toolkit | REST APIs | MongoDB Atlas |
-| Tailwind CSS | JWT Authentication | CRUD Operations |
-| HTML5 | Middleware | Database Design |
-| CSS3 | MVC Architecture | Data Modeling |
-| JavaScript (ES6+) | API Integration | Aggregation Basics |
+## 🛠️ Technology Overview
 
-</div>
+| 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 🚀 Deployment | 🛠️ Tools |
+|-------------|------------|-------------|---------------|-----------|
+| React.js | Node.js | MongoDB | Vercel | Git |
+| Next.js | Express.js | Mongoose | Render | GitHub |
+| Redux Toolkit | REST APIs | MongoDB Atlas | Netlify | VS Code |
+| Tailwind CSS | JWT Authentication | CRUD Operations | GitHub Pages | Postman |
+| HTML5 | Middleware | Database Design | MongoDB Atlas | npm | 
+| CSS3 | MVC Architecture | Data Modeling | — | - | Cloud Computing |
+| JavaScript (ES6+) | API Integration | Aggregation Basics | — | Chrome DevTools |
 
----
 
-<div align="center">
-
-| 🛠️ Development Tools | 🚀 Deployment | 📚 Currently Learning |
-|----------------------|---------------|----------------------|
-| Git | Vercel | Docker |
-| GitHub | Render | AWS |
-| VS Code | Netlify | TypeScript |
-| Postman | GitHub Pages | System Design |
-| npm | MongoDB Atlas | AI Engineering |
 
 </div>
 
----
-
-## 🎯 Core Expertise
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-### ⚛️ Frontend
-
-Responsive UI
-
-Component Architecture
-
-React Ecosystem
-
-Modern JavaScript
-
-Performance Optimization
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀 Backend
-
-REST APIs
-
-Authentication
-
-Authorization
-
-Express Middleware
-
-Server Architecture
-
-</td>
-
-<td align="center" width="33%">
-
-### 🗄️ Database
-
-MongoDB
-
-Mongoose ODM
-
-Schema Design
-
-CRUD Operations
-
-Data Validation
-
-</td>
-
-</tr>
-
-</table>
 
 </div>
 
